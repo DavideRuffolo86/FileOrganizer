@@ -7,7 +7,7 @@ The folder tree will have a root folder with the year of the last modification o
 * Linux / OSX / Windows
 
 ## Installation
-* Download the [jar file](link)
+* Download the [jar file](https://github.com/DavideRuffolo86/FileOrganizer/releases/tag/1.0)
 
 ## Usage
 
@@ -49,4 +49,4 @@ Downloads
 
 # License
 
-[MIT](mylink...)
+[MIT](https://raw.githubusercontent.com/DavideRuffolo86/FileOrganizer/main/LICENSE)
